@@ -1,5 +1,10 @@
 # This file is machine-generated - editing it directly is not advised
 
+[[GroupSlices]]
+git-tree-sha1 = "4de31f97ac545bf533eef17109725dfc68e29d64"
+uuid = "d853e229-7c7c-56e9-b6be-9a1acc5f13d9"
+version = "0.0.3"
+
 [[Libdl]]
 uuid = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 
@@ -40,3 +45,19 @@ uuid = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 [[UUIDs]]
 deps = ["Random", "SHA"]
 uuid = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
+
+[[divido]]
+deps = ["GroupSlices"]
+git-tree-sha1 = "771c3e29bd14ae6b39c8482b2ca7a4588f3c6588"
+repo-rev = "master"
+repo-url = "D:\\estragio\\PhD\\99_Github\\divido.jl"
+uuid = "b366ad8f-a076-4708-9cec-a1a8bfa60877"
+version = "0.1.0"
+
+[[intrico]]
+deps = ["Requires", "StaticArrays", "divido"]
+git-tree-sha1 = "4aa00b6470d674057c83d087fb281ef9f162b26d"
+repo-rev = "master"
+repo-url = "D:\\estragio\\PhD\\99_Github\\intrico.jl"
+uuid = "dfd82dbb-88c2-41fc-8dcc-71712229ae1e"
+version = "0.1.0"
