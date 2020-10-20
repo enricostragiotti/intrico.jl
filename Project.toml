@@ -1,4 +1,4 @@
-name = "intrico.jl"
+name = "intrico"
 uuid = "dfd82dbb-88c2-41fc-8dcc-71712229ae1e"
 authors = ["Enrico Stragiotti <44843509+enricostragiotti@users.noreply.github.com>"]
 version = "0.1.0"
